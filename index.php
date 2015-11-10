@@ -134,7 +134,12 @@
 		</ul>
 		</section>    <section id="skills">
       <h1>Skills</h1>
-      <p>Skills section</p>
+      <ul>
+		<li> Expert user of Microsoft Word, Excel, PowerPoint, Visio, OneNote, Outlook, ACL and SPSS; advanced user of MS Access and PostgreSQL; proficient user of VBA</li>
+		<li> Intermediate fluency in written and spoken French</li>
+		<li> Able to conduct formal meetings as well as informal discussions</li>
+		<li> Passionate about grammar, writing, public speaking, problem-solving, small talk, improvisation, negotiation, time management, learning new systems, interpersonal relationships, and receiving constructive feedback</li>
+		</ul>
 		</section>
     <section id="references">
       <h1>References</h1>
