@@ -1,0 +1,51 @@
+@page { margin: 1cm; }
+body {
+	font-family: "Helvetica";
+	font-size: 10pt;
+	width: 100%;
+	color: #000;
+	background-color: #fff;
+}
+
+#qrcode {
+	display: inline-block;
+}
+
+.print {
+	display: inline;
+}
+
+nav, .noprint {
+	display: none;
+}
+aside {
+	position: absolute;
+	float:left;
+	width: 200px;
+	top: 0;
+	margin: 0;
+	height: auto;
+}
+aside, h1, header {
+	border: 0;
+	text-align: left;
+}
+h1, h2 {
+	margin-bottom: 0;
+}
+aside > * {
+	padding: 0;
+} 
+article {
+	 margin-left: 200px;
+}
+article ul, article p {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+#content a {
+	text-decoration: none;
+}
+#content a.print_url:after {
+	content: " (" attr(href) ")";
+}

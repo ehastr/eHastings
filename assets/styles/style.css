@@ -1,0 +1,111 @@
+
+body {
+	font-family: "Century Gothic";
+	font-size: 10pt;
+	width: 900px;
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #000;
+	background-color: #fff;
+	/* border: 1px solid blue; */
+	transition: background-color 1s, color 1s, border 1s;
+	-moz-transition: background-color 1s, color 1s, border 1s; /* Firefox 4 */
+	-webkit-transition: background-color 1s, color 1s, border 1s; /* Safari and Chrome */
+	-o-transition: background-color 1s, color 1s, border 1s;/* Opera */
+}
+
+a:link, a:visited {
+	color: #000;
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+}
+.dark-theme {
+	color: #fff;
+	background-color: #000;
+}
+
+.dark-theme a:link, .dark-theme a:visited {
+	color: #fff;
+}
+header {
+	font-size: 3em;
+	margin-top: -10px;
+	text-align: right;
+}
+header span {
+	display: block;
+}
+aside{
+	text-align: right;
+	width: 559px;
+	display: block;
+	height: 90%;
+	top: 20px;
+	margin-left: -280px;
+	border-right-width: .15em;
+	border-right-style: solid;
+	border-right-color: #000;
+	position: fixed;
+}
+aside > header, aside > ul, aside > span {
+		padding-right: 10pt;
+}
+aside a {
+	text-decoration: none;
+}
+aside nav li span{
+	opacity: 0;
+	margin-left:2pt;
+	margin-right:2pt;
+}
+aside nav li.active span{
+	opacity: 1;
+}
+.dark-theme aside {
+	border-right-color: #FFF;
+}
+article {
+	display: block;
+	width: 40em;
+	margin-left: 22em;
+	float: left;
+	/* border: 1px solid red; */
+}
+.gray {
+	color: #999;
+}
+aside li {
+	list-style-type: none;
+	white-space: nowrap;
+}
+.pointer {
+	cursor: pointer;
+}
+h1 {
+	font-size: 14pt;
+	border-bottom: 1px solid black;
+}
+h2 small {
+	display: block;
+}
+
+h2, .address > span:nth-of-type(1) {
+	font-size: 12pt;
+	font-style: normal;
+	font-weight: bold;
+}
+.address > span {
+	display: block;
+}
+.address {
+	margin-top: 12pt;
+}
+
+.print {
+	display:none;
+}
+.sublist {
+	list-style-type: none;
+}
