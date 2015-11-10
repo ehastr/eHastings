@@ -52,6 +52,7 @@
         <ul>
           <li>
             <a href="/">Home</a>
+			<span class="gray">&#9632;</span>
           </li>
         </ul>
       </nav>

@@ -52,23 +52,23 @@
         <ul>
           <li class="active">
             <a href="#aboutme">About Me</a>
-            <span class="gray"> </span>
+            <span class="gray">&#9632;</span>
           </li>
           <li>
             <a href="#experience">Experience</a>
-            <span class="gray"> </span>
+            <span class="gray">&#9632;</span>
           </li>
           <li>
             <a href="#skills">Skills</a>
-            <span class="gray"> </span>
+            <span class="gray">&#9632;</span>
           </li>
           <li>
             <a href="#education">Education</a>
-            <span class="gray"> </span>
+            <span class="gray">&#9632;</span>
           </li>
           <li>
             <a href="#references">References</a>
-            <span class="gray"> </span>
+            <span class="gray">&#9632;</span>
           </li>
         </ul>
       </nav>
