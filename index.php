@@ -76,7 +76,7 @@
     <article id="content">
     <section id="aboutme">
       <h1>About Me</h1>
-      <p>About Me section</p>
+      <p>Half-black, half-Aboriginal, and fully energized, I'm an auditing professional since 2010 with a passion for writing and getting a job done.</p>
     </section>
     <section id="experience">    <h1>Experience</h1>    <p>
 		<strong>ADM(RS) - Audit/Program Analyst</strong> (May 2013 - Present)<br/>
