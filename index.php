@@ -101,7 +101,6 @@
 		<li> Supervised the summer interns’ arrival and transition into relevant audit projects</li>
 		<li> Frequently resolved the technical issues of colleagues with the Microsoft suite and ACL</li>
 		</ul>
-		<br/>
 	<p>
 		<strong>Audit and Assurance Services - Audit Intern</strong> (Apr. - Sep. 2010/11/12)<br/>
 		<em><strong>Aboriginal and Northern Affairs Canada</strong> (Gatineau, QC)</strong>
@@ -116,28 +115,30 @@
 		<li> Translated Treasury Board policy into defined management action framework recommendations</li>
 		<li> Successfully completed CIDM (AANDC’s internal database) certified instruction courses in 2010 and again in 2011, assisting colleagues in its use</li>
 		</ul>
-		<br/>
 	<p>
 		<strong>Actor</strong> (Oct. 2014 - Present)
 		</p>
 	<ul>
 		<li> Hired for the national Bath Fitters campaign, Armour Home Solutions and an upcoming HGTV program</li>
 		<li> Able to adjust a presentation on the fly following feedback or further direction</li>
-		</ul>	</section>    <section id="skills">
+		</ul>		</section>
+	<section id="education">
+      <h1>Education</h1>
+     <p>
+		<strong>University of Ottawa – Bachelor of Commerce, Specialization in Marketing</strong> (Apr. 2013)
+		</p>
+	<ul>
+		<li> Completed an additional three and a half years of the uOttawa Honours Accounting program</li>
+		<li> Highly versed in financial reporting, processes and advanced analysis of statements</li>
+		<li> Federal government training includes <em>Introduction to ACL</em>, <em>ACL 201 Applications</em>, <em>Risk Management for Finance Professionals</em>, <em>Financial Management Control</em>, <em>Government Planning, Budgeting, Reporting and Evaluation Cycle</em>; <em>IIA – Statistical Sampling and Building Excellence in Teams</em></li>
+		</ul>
+		</section>    <section id="skills">
       <h1>Skills</h1>
       <p>Skills section</p>
-    </section>
-    <section id="portfolio">
-      <h1>Portfolio</h1>
-      <p>Portfolio section</p>
-    </section>
-    <section id="education">
-      <h1>Education</h1>
-      <p>Education section</p>
-    </section>
+		</section>
     <section id="references">
       <h1>References</h1>
       <p>References available on request.</p>
-    </section></article>
+		</section></article>
   </body>
 </html>
