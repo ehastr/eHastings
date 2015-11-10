@@ -34,7 +34,7 @@
         <a href="mailto:ehastr@gmail.com">ehastr@gmail.com</a></li>
         <li>
         <span class="gray">phone |</span> 
-        <a href="tel:+16138640164">+1 (613) 263 3037</a></li>
+        <a href="tel:+16138640164">(613) 864-0164</a></li>
       </ul>
       <ul>
         <li class="noprint">
