@@ -9,12 +9,6 @@ $(function(e) {
 	$('a[href^="?"]').prop('href', function(i,attr) { 
 		return attr.replace("?","#")
 	});
-	if ($.isFunction(window.print)) {
-		$('#sidebar_list_view').append('<li class="noprint"><a href="" class="print_cmd pointer">print</a></li>');
-		$('a.print_cmd').click( function() {
-			window.print();
-		});
-	}
 	
 	$(window).scroll(function () {
 		var inview = '#' + $("#content > section > h1:in-viewport:first").parent().attr('id');

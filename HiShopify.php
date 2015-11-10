@@ -45,7 +45,7 @@
       </ul>
       <ul id="sidebar_list_view">
         <li class="noprint">
-          <a href="/?print">print-friendly</a>
+          <a href="/?print">printer-friendly</a>
         </li>
       </ul>
       <nav>
