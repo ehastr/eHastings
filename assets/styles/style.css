@@ -109,3 +109,6 @@ h2, .address > span:nth-of-type(1) {
 .sublist {
 	list-style-type: none;
 }
+li {
+	margin-bottom: 0.2em;
+}
