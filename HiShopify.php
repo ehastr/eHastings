@@ -10,8 +10,10 @@
     <meta name="keywords" content="Erica Hastings" />
     <meta name="author" content="Erica Hastings" />
     <title>Erica Hastings</title>
-    <link href="/assets/styles/style.css" rel="stylesheet" type="text/css" /><? if (isset($_GET['print'])) { ?>
-    <link href="/assets/styles/style.print.css" rel="stylesheet" type="text/css" /><?php } ?>
+    <link href="/assets/styles/style.css" rel="stylesheet" type="text/css" />
+	<?php if (isset($_GET['print'])) { ?>
+    <link href="/assets/styles/style.print.css" rel="stylesheet" type="text/css" />
+	<?php } ?>
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script type="text/javascript" src="/assets/scripts/jquery.viewport.mini.js"></script>
     <script type="text/javascript" src="/assets/scripts/custom.js"></script>
