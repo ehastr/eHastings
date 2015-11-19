@@ -103,7 +103,7 @@
 		</ul>
 	<p>
 		<strong>Audit and Assurance Services - Audit Intern</strong> (Apr. - Sep. 2010/11/12)<br/>
-		<em><strong>Aboriginal and Northern Affairs Canada</strong> (Gatineau, QC)</strong>
+		<em><strong>Aboriginal Affairs and Northern Development Canada</strong> (Gatineau, QC)</strong>
 		</p>
 	<ul>
 		<li> Analyzed three years of funding recipients’ financial statements against probationary terms, trending discrepancies between actual and budgeted funding levels</li>
