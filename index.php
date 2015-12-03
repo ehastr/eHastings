@@ -81,44 +81,57 @@
     <article id="content">
     <section id="aboutme">
       <h1>About Me</h1>
-      <p>Half-black, half-Aboriginal, and fully energized, I'm an auditing professional since 2010 with a passion for writing and getting a job done.</p>
+      <p>Half-black, half-Aboriginal, fully energized. I'm an auditing professional since 2010 with a passion for writing and getting a job done.</p>
     </section>
     <section id="experience">    <h1>Experience</h1>    <p>
 		<strong>ADM(RS) - Audit/Program Analyst</strong> (May 2013 - Present)<br/>
 		<em><strong>Department of National Defence</strong> (Ottawa, ON)</em>
 	</p>
-	<ul> 
-		<li> Tested a substantial series of system and financial controls in support of multiple, national compliance audits</li>
-		<li> Documented gaps between internal policy, departmental standards, and the actual processes used by clients</li>
-		<li> Wrote sensitive, public-facing reports to address the need for further training, guidance, and tighter controls</li>
-		<li> Developed five-year trend analyses of multi-billion dollar budget data to assess financial pressures, inefficiencies and inappropriate spending</li>
-		<li> Led extensive, financial management document reviews across the military to test approvals, accurate accounting, and complete evidence trails, validating 57 of our clients’ internal compliance reviews</li>
-		<li> Documented clients’ environments, capacities, and objectives to better map organizational structures and operating procedures through Visio</li>
-		<li> Led and scribed client interviews at each level of the Royal Canadian Air Force, Royal Canadian Navy and Canadian Forces Health Services, spanning Base Commanders, Coast Admirals, to general system end-users</li>
-		<li> Recovered and analyzed incomplete federal contracts from semi-functional databases to verify clauses</li>
-		<li> Defined audit criteria, risk probability, and risk impact to uphold departmental priorities</li>
-		<li> Gathered comprehensive evidence to support my and my team’s audit observations</li>
-		<li> Presented analysis and conclusions to clients, simplifying observations as causes or symptoms of greater issues and developing actionable plans for improvement</li>
-		<li> Presented and explained complex findings to audit Peer Review Committees, attended by multiple Directors</li>
-		<li> Created meticulous Excel and ACL data analysis process maps for current and new audit team members</li>
-		<li> Worked in tandem with the Director(Internal Audit) to develop internal organization charts through Visio, accurately incorporating feedback from the Assistant Deputy Minister and Director Generals</li>
-		<li> Developed a travel budget forecast template to quickly update travel plans for Deputy Minister approval</li>
-		<li> Supervised the summer interns’ arrival and transition into relevant audit projects</li>
-		<li> Frequently resolved the technical issues of colleagues with the Microsoft suite and ACL</li>
+	<strong>Analytical Success</strong>
+	<ul>
+		<li> Developed five-year numerical analyses of multi-billion dollar budget data to improve critical weaknesses</li>
+		<li> Took raw, financial data from $250 M organizations to identify inefficiencies using a variety of analytical methods</li>
+		<li> Led extensive document analyses across the military to find areas of improvement and evolve business practices</li>
+		<li> Assessed departmental system controls, approval procedures, and accounting policies to develop better processes</li>
+		<li> Leveraged fifty internal reviews to draw on the knowledge of earlier teams and improve on their results</li>
+	</ul>
+	<strong>Communication with Partners</strong>
+	<ul>
+		<li> Contacted, met, and researched our partners to understand their efforts and align insights to their objectives</li>
+		<li> Educated stakeholders ranging from Directors, Base Commanders, and system end users on the value of our work</li>
+		<li> Mapped the structures and systems of our partners to easily communicate organizational redesigns</li>
+		<li> Explained complex data to our partners as simplistic but attractive presentations, both in person and on the phone</li>
+		<li> Further simplified critical insights as meaningful causes of or factors in our partners’ greater interests</li>
+		</ul>
+	<strong>Developed Solutions</strong>
+	<ul>
+		<li> Pieced together and repaired incomplete contracts from semi-functional databases to verify terms and needs</li>
+		<li> Quickly addressed unique and routine requests for information made by our partners and my team</li>
+		<li> Generated actionable plans to address our partners’ needs based on my and my team’s findings</li>
+		<li> Identified and solved new problems before they impacted our partners’ existing operations</li>
+		<li> Defined audit criteria, risk probabilities, and risk impacts to reach and maintain organizational priorities</li>
+		</ul>
+	<strong>Team Focus</strong>
+	<ul>
+		<li> Frequently solved technical problems of team members involving the Microsoft suite, ACL, or data analysis</li>
+		<li> Created meticulous Excel and ACL data analysis process maps for current and new team members’ understanding</li>
+		<li> Worked with five-person committees to promote the growth of our team through job shadowing and lunch-and-learns</li>
+		<li> Supervised the summer interns’ arrivals and transitions into active audit projects</li>
 		</ul>
 	<p>
 		<strong>Audit and Assurance Services - Audit Intern</strong> (Apr. - Sep. 2010/11/12)<br/>
 		<em><strong>Aboriginal Affairs and Northern Development Canada</strong> (Gatineau, QC)</strong>
 		</p>
 	<ul>
-		<li> Analyzed three years of funding recipients’ financial statements against probationary terms, trending discrepancies between actual and budgeted funding levels</li>
-		<li> Developed a series of Visio flowcharts and texts to fully communicate audit processes to third parties</li>
-		<li> Catalogued over 400 audit documents that spanned various audit projects in concise, easy-to-read charts within four days</li>
-		<li> Identified and presented the control deficiencies as described by 36 prior evaluation reports in contribution to the Risk-Based Audit Plan</li>
-		<li> Presented central areas of concern in AANDC’s program controls to the Audit and Evaluation branch, reflecting these concerns in terms of risk, human resources, financial resources, internal and external management, program design and delivery, and performance measurement strategy</li>
-		<li> Wrote summary reports, briefing notes, and executive summaries for use by senior management</li>
+		<li> Analyzed three years of funding recipients’ financial statements against probationary terms, documenting discrepancies</li>
+		<li> Catalogued 400 audit documents spanning various audit projects into a concise, easy-to-read charts within four days</li>
+		<li> Developed a series of flowcharts and texts to fully communicate audit processes to external parties</li>
+		<li> Identified and presented control deficiencies described by 36 evaluation reports for the annual Risk-Based Audit Plan</li>
 		<li> Translated Treasury Board policy into defined management action framework recommendations</li>
-		<li> Successfully completed CIDM (AANDC’s internal database) certified instruction courses in 2010 and again in 2011, assisting colleagues in its use</li>
+		<li> Created summary reports, briefing notes, and executive summaries for use by senior management</li>
+		<li> Reported gaps between internal policy, departmental standards, and the actual processes used by partners</li>
+		<li> Presented critical areas of concern in AANDC’s program controls to the Audit and Evaluation branch, reflecting these concerns in terms of risk, human resources, financial resources, internal and external management, program design and delivery, and performance measurement strategy</li>
+		<li> Successfully completed CIDM (AANDC’s internal database) certified instruction courses, assisting colleagues in its use</li>
 		</ul>
 	<p>
 		<strong>Actor</strong> (Oct. 2014 - Present)
@@ -133,16 +146,18 @@
 		<strong>University of Ottawa – Bachelor of Commerce, Specialization in Marketing</strong> (Apr. 2013)
 		</p>
 	<ul>
+		<li> Specialized in market research, statistical analysis, numerical analysis, and database analysis</li>
+		<li> Created real world solutions for existing companies based on their objectives and target demographics</li>
 		<li> Completed an additional three and a half years of the uOttawa Honours Accounting program</li>
-		<li> Highly versed in financial reporting, processes and advanced analysis of statements</li>
 		<li> Federal government training includes <em>Introduction to ACL</em>, <em>ACL 201 Applications</em>, <em>Risk Management for Finance Professionals</em>, <em>Financial Management Control</em>, <em>Government Planning, Budgeting, Reporting and Evaluation Cycle</em>; <em>IIA – Statistical Sampling and Building Excellence in Teams</em></li>
 		</ul>
 		</section>    <section id="skills">
       <h1>Skills</h1>
       <ul>
-		<li> Expert user of Microsoft Word, Excel, PowerPoint, Visio, OneNote, Outlook, ACL and SPSS; advanced user of MS Access and PostgreSQL; proficient user of VBA</li>
-		<li> Intermediate fluency in written and spoken French</li>
-		<li> Able to conduct formal meetings as well as informal discussions</li>
+		<li> Strong speaking voice on the phone and during a face-to-face presentation</li>
+		<li> Massive interest in performing data analysis and publicly presenting the insights</li>
+		<li> Able to mesh with a team’s existing dynamic</li>
+		<li> Expert user of Microsoft Word, Excel, PowerPoint, Visio, OneNote, Outlook, ACL, Minitab, and SPSS; advanced user of MS Access and PostgreSQL; proficient user of VBA</li>
 		<li> Passionate about grammar, writing, public speaking, problem-solving, small talk, improvisation, negotiation, time management, learning new systems, interpersonal relationships, and receiving constructive feedback</li>
 		</ul>
 		</section>
