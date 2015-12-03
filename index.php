@@ -40,7 +40,12 @@
         <li class="noprint">
         <span class="gray">follow |</span> 
         <a href="https://facebook.com/erica.hastings">
-          <span>facebook</span>
+          <span>facebook</span></a>
+		<a href="https://ca.linkedin.com/in/ericahastings">
+          <span>linkedin</span>
+        </a>
+		<a href="https://twitter.com/ehastr">
+          <span>twitter</span>
         </a></li>
       </ul>
       <ul id="sidebar_list_view">
