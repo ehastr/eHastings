@@ -40,11 +40,11 @@
         <li class="noprint">
         <span class="gray">follow |</span> 
         <a href="https://facebook.com/erica.hastings">
-          <span>facebook</span></a>
-		<a href="https://ca.linkedin.com/in/ericahastings">
+          <span>facebook</span></a></li>
+		<li><a href="https://ca.linkedin.com/in/ericahastings">
           <span>linkedin</span>
-        </a>
-		<a href="https://twitter.com/ehastr">
+        </a></li>
+		<li><a href="https://twitter.com/ehastr">
           <span>twitter</span>
         </a></li>
       </ul>
@@ -93,7 +93,7 @@
 		<li> Took raw, financial data from $250 M organizations to identify inefficiencies using a variety of analytical methods</li>
 		<li> Led extensive document analyses across the military to find areas of improvement and evolve business practices</li>
 		<li> Assessed departmental system controls, approval procedures, and accounting policies to develop better processes</li>
-		<li> Leveraged fifty internal reviews to draw on the knowledge of earlier teams and improve on their results</li>
+		<li> Leveraged fifty internal reviews to draw on the knowledge of earlier teams and improve on their results</li>
 	</ul>
 	<strong>Communication with Partners</strong>
 	<ul>
@@ -143,7 +143,7 @@
 	<section id="education">
       <h1>Education</h1>
      <p>
-		<strong>University of Ottawa – Bachelor of Commerce, Specialization in Marketing</strong> (Apr. 2013)
+		<strong>University of Ottawa – Bachelor of Commerce, Spec. in Marketing</strong> (Apr. 2013)
 		</p>
 	<ul>
 		<li> Specialized in market research, statistical analysis, numerical analysis, and database analysis</li>
